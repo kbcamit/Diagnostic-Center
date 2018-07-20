@@ -1,0 +1,16 @@
+<?php
+require_once("config.php");
+require_once("database.php");
+require_once("db_object.php");
+require_once("session.php");
+require_once("category.php");
+require_once("sub_category.php");
+require_once("doctor.php");
+require_once("expense.php");
+require_once("expense_invoice.php");
+require_once("admin.php");
+require_once("company.php");
+require_once("invoice.php");
+require_once("payment.php");
+require_once("clear_payment.php");
+?>
